@@ -1,5 +1,4 @@
-ADARSH MAURYA
-# 💫 About Me:
+# 💫 ADARSH MAURYA
 💻 I am a passionate Computer Science student and aspiring Software Developer.<br>🚀 Currently learning Data Structures & Algorithms, Java, and Web Development (Node.js, Express, EJS).<br><br>🔹 I enjoy solving problems on platforms like LeetCode<br>🔹 I love building real-world projects using backend + APIs<br>🔹 Always curious to learn new technologies and improve my coding skills
 
 
